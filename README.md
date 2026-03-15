@@ -20,3 +20,4 @@ This section highlights the analysis performed on customers to understand their 
 
 ### Conversion rate by Month
 
+![image](https://github.com/Raghcodezz/Ecommece_Funnel_Analysis/blob/27caf6431e71d3a9592a4cc2a7652964ec370c0a/Converison%20per%20Month.png)
