@@ -1,4 +1,4 @@
-# Ecommerce_Funnel_Analysis
+# User Journey Funnel Analysis
 
 ## Business Problem
 Many users visit an e-commerce platform but do not complete the purchase. Most of the customers drop off in the middle or they just add the products to cart and abandon. Due to this company fails to understand the customer behavior and also the loses revenue.
